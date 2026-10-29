@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0504-base-7](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0504-base-7/) | Easy |
+| [2652-sum-multiples](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2652-sum-multiples/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
