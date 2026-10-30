@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0504-base-7](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0504-base-7/) | Easy |
+| [1922-count-good-numbers](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [2652-sum-multiples](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2652-sum-multiples/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -51,4 +52,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1922-count-good-numbers](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1922-count-good-numbers/) | Medium |
 <!---LeetCode Topics End-->
