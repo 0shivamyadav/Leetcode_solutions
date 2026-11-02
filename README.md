@@ -18,6 +18,7 @@
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0039-combination-sum/) | Medium |
 | [0040-combination-sum-ii](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0040-combination-sum-ii/) | Medium |
+| [0238-product-of-array-except-self](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0274-h-index](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0274-h-index/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -55,6 +56,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
