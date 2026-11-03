@@ -62,6 +62,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [1922-count-good-numbers](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1922-count-good-numbers/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -92,4 +93,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
