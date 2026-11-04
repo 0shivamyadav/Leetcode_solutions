@@ -62,6 +62,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [1922-count-good-numbers](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1922-count-good-numbers/) | Medium |
 ## Binary Search
@@ -96,5 +97,6 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
