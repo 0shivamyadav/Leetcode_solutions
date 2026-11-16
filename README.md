@@ -4,6 +4,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0504-base-7](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [1922-count-good-numbers](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [2652-sum-multiples](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2652-sum-multiples/) | Easy |
@@ -22,6 +23,7 @@
 | [0274-h-index](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0274-h-index/) | Medium |
 | [0275-h-index-ii](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0275-h-index-ii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1122-relative-sort-array](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
@@ -35,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0274-h-index/) | Medium |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [1122-relative-sort-array](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1122-relative-sort-array/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
