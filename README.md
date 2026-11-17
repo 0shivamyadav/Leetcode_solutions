@@ -101,5 +101,6 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
