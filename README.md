@@ -26,6 +26,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1122-relative-sort-array](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1122-relative-sort-array/) | Easy |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@
 | ------- | ------- |
 | [0275-h-index-ii](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0275-h-index-ii/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
