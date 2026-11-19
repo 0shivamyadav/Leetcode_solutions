@@ -13,6 +13,7 @@
 | ------- | ------- |
 | [0205-isomorphic-strings](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0205-isomorphic-strings/) | Easy |
 | [0504-base-7](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0504-base-7/) | Easy |
+| [2000-reverse-prefix-of-word](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 ## Array
 | Problem Name | Difficulty |
@@ -105,4 +106,12 @@
 | [0021-merge-two-sorted-lists](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0206-reverse-linked-list](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0206-reverse-linked-list/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2000-reverse-prefix-of-word](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 <!---LeetCode Topics End-->
