@@ -8,6 +8,7 @@
 | [0504-base-7](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [1922-count-good-numbers](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [2652-sum-multiples](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2652-sum-multiples/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -32,6 +33,7 @@
 | [1122-relative-sort-array](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -125,4 +127,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3411-maximum-subarray-with-equal-products](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 <!---LeetCode Topics End-->
