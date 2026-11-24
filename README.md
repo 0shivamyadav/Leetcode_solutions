@@ -15,6 +15,7 @@
 | [0504-base-7](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [0844-backspace-string-compare](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 ## Array
@@ -118,6 +119,7 @@
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1544-make-the-string-great/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
