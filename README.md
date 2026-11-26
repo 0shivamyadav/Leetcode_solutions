@@ -8,6 +8,7 @@
 | [0504-base-7](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0504-base-7/) | Easy |
 | [1922-count-good-numbers](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [2652-sum-multiples](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2652-sum-multiples/) | Easy |
+| [3360-stone-removal-game](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -127,6 +128,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [3360-stone-removal-game](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/3360-stone-removal-game/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
