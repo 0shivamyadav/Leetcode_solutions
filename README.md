@@ -33,6 +33,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1122-relative-sort-array](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1122-relative-sort-array/) | Easy |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
+| [2073-time-needed-to-buy-tickets](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [3411-maximum-subarray-with-equal-products](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Hash Table
@@ -128,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0844-backspace-string-compare](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/0844-backspace-string-compare/) | Easy |
+| [2073-time-needed-to-buy-tickets](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 | [3360-stone-removal-game](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/3360-stone-removal-game/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -141,4 +143,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3411-maximum-subarray-with-equal-products](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2073-time-needed-to-buy-tickets](https://github.com/0shivamyadav/Leetcode_solutions/tree/main/2073-time-needed-to-buy-tickets/) | Easy |
 <!---LeetCode Topics End-->
